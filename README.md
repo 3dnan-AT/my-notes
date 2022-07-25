@@ -16,7 +16,7 @@ this is my GitHub link: **[My GitHub](https://github.com/3dnan-AT)**.
 There are Purposes from the programs, but the main Purpose is to **help people**.
 
 > Remember: the purpose of the software is not to show off how
->intelligent you are. — Max Kanat-Alexander, Code Simplicity.
+>intelligent you are.
 
 The main objective of software development is to portray the software well.
 
@@ -31,8 +31,7 @@ Only allow program running or modification. The application is made to make the 
 If you design a bad program, make sure that it will have a short life.
 
 >To design systems that can be created and maintained as easily as
->possible by their developers, so that they can be — and continue to be — as
->helpful as possible. — Max Kanat-Alexander, Code Simplicity
+>possible by their developers, so that they can be — and continue to be — as helpful as possible.
 
 ### 3. Simplicity
 
@@ -42,7 +41,7 @@ The main goal for the success of applications is to be uncomplicated so that the
 
 **This is one of the characteristics of a good programmer**.
 
->Complexity has nothing to do with intelligence, simplicity does. — Larry Bossidy
+>Complexity has nothing to do with intelligence, simplicity does.
 
 ### 4. Maintenance
 
@@ -55,15 +54,3 @@ __
 __
 __
 >Simplicity and complexity are the two main factors that affect code maintenance. The ease of maintenance of any piece of software is proportional to the simplicity of its individual pieces. The effort of maintenance is proportional to the complexity of the software.
-__
-__
-__
->The one rule that you should follow about maintenance is:
-__
-__
-__
->>**It is more important to reduce the effort of maintenance than it is to reduce the effort of implementation**.
-__
-__
-__
->— Max Kanat-Alexander, Code Simplicity

@@ -18,6 +18,8 @@ There are Purposes from the programs, but the main Purpose is to **help people**
 > Remember: the purpose of the software is not to show off how
 >intelligent you are.
 
+<br/>
+
 The main objective of software development is to portray the software well.
 
 As a developer, you must set goals for the development of the application by asking about the required features in it.
@@ -33,6 +35,8 @@ If you design a bad program, make sure that it will have a short life.
 >To design systems that can be created and maintained as easily as
 >possible by their developers, so that they can be — and continue to be — as helpful as possible.
 
+<br/>
+
 ### 3. Simplicity
 
 The main goal for the success of applications is to be uncomplicated so that the user can use them easily and can access everything without complexity.
@@ -40,6 +44,8 @@ The main goal for the success of applications is to be uncomplicated so that the
 **This is one of the characteristics of a good programmer**.
 
 >Complexity has nothing to do with intelligence, simplicity does.
+
+<br/>
 
 ### 4. Maintenance
 

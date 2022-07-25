@@ -35,8 +35,6 @@ If you design a bad program, make sure that it will have a short life.
 
 ### 3. Simplicity
 
->_Simplicity is the ultimate sophistication. — Leonardo da Vinci_
-
 The main goal for the success of applications is to be uncomplicated so that the user can use them easily and can access everything without complexity.
 
 **This is one of the characteristics of a good programmer**.

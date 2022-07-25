@@ -48,7 +48,5 @@ Maintenance of the application is the most important way to improve it, but many
 One of the most important characteristics of developers is to focus on thinking about the future in terms of maintenance and so on.
 
 >All changes require maintenance.
-__
-__
-__
+<br/>
 >Simplicity and complexity are the two main factors that affect code maintenance. The ease of maintenance of any piece of software is proportional to the simplicity of its individual pieces. The effort of maintenance is proportional to the complexity of the software.

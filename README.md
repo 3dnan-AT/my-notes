@@ -47,6 +47,8 @@ The main goal for the success of applications is to be uncomplicated so that the
 
 **This is one of the characteristics of a good programmer**.
 
+<br/>
+
 >Complexity has nothing to do with intelligence, simplicity does.
 
 <br/>
@@ -56,6 +58,8 @@ The main goal for the success of applications is to be uncomplicated so that the
 Maintenance of the application is the most important way to improve it, but many ignore the importance of this step, as they focus on completing the project as soon as possible.
 
 One of the most important characteristics of developers is to focus on thinking about the future in terms of maintenance and so on.
+
+<br/>
 
 >All changes require maintenance.
 

@@ -15,6 +15,8 @@ this is my GitHub link: **[My GitHub](https://github.com/3dnan-AT)**.
 
 There are Purposes from the programs, but the main Purpose is to **help people**.
 
+<br/>
+
 > Remember: the purpose of the software is not to show off how
 >intelligent you are.
 
@@ -31,6 +33,8 @@ As a developer, you must set goals for the development of the application by ask
 Only allow program running or modification. The application is made to make the work of developers as simple as possible for up to two years, allowing them to concentrate on the crucial matters. You'll develop a program to assist them, and your program will carry on assisting them.
 
 If you design a bad program, make sure that it will have a short life.
+
+<br/>
 
 >To design systems that can be created and maintained as easily as
 >possible by their developers, so that they can be — and continue to be — as helpful as possible.
